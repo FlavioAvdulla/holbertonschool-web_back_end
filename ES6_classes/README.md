@@ -1,4 +1,4 @@
-# Advanced JavaScript Tasks
+# ES6 classes
 
 This repository contains several JavaScript tasks focused on advanced JavaScript features. Each task is implemented in a separate JavaScript file.
 
