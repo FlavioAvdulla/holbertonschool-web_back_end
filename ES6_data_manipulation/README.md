@@ -4,17 +4,17 @@ This repository contains several JavaScript tasks focused on ES6 data manipulati
 
 ## Table of Contents
 
-1. [Basic List of Objects](#basic-list-of-objects)
-2. [More Mapping](#more-mapping)
-3. [Filter](#filter)
-4. [Reduce](#reduce)
-5. [Combine](#combine)
-6. [Typed Arrays](#typed-arrays)
-7. [Set Data Structure](#set-data-structure)
-8. [More Set Data Structure](#more-set-data-structure)
-9. [Clean Set](#clean-set)
-10. [Map Data Structure](#map-data-structure)
-11. [More Map Data Structure](#more-map-data-structure)
+1. Basic List of Objects
+2. More Mapping
+3. Filter
+4. Reduce
+5. Combine
+6. Typed Arrays
+7. Set Data Structure
+8. More Set Data Structure
+9. Clean Set
+10. Map Data Structure
+11. More Map Data Structure
 
 ## Basic List of Objects
 
