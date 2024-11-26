@@ -9,7 +9,7 @@
 6. Reject the promises
 7. Handle multiple promises
 8. Load balancer
-9. [Throw an error](8-try.js)
+9. [Throw an error](#8-try.js)
 10. Throw error / try catch
 
 ## Tasks
