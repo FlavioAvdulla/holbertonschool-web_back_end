@@ -4,17 +4,17 @@ This repository contains several JavaScript tasks focused on advanced JavaScript
 
 ## Table of Contents
 
-1. [You Used to Attend a Place Like This](#you-used-to-attend-a-place-like-this)
-2. [Let's Make Some Classrooms](#lets-make-some-classrooms)
-3. [A Course, Getters, and Setters](#a-course-getters-and-setters)
-4. [Methods, Static Methods, Computed Method Names..... MONEY](#methods-static-methods-computed-method-names-money)
-5. [Pricing](#pricing)
-6. [A Building](#a-building)
-7. [Inheritance](#inheritance)
-8. [Airport](#airport)
-9. [Primitive - Holberton Class](#primitive-holberton-class)
-10. [Hoisting](#hoisting)
-11. [Vroom](#vroom)
+1. You Used to Attend a Place Like This
+2. Let's Make Some Classrooms
+3. A Course, Getters, and Setters
+4. Methods, Static Methods, Computed Method Names..... MONEY
+5. Pricing
+6. A Building
+7. Inheritance
+8. Airport
+9. Primitive - Holberton Class
+10. Hoisting
+11. Vroom
 
 ## You Used to Attend a Place Like This
 
