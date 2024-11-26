@@ -1,16 +1,16 @@
 # ES6 Promises
 
 ## Table of Contents
-1. Keep every promise you make and only make promises you can keep
-2. Don't make a promise...if you know you can't keep it
-3. Catch me if you can!
-4. Handle multiple successful promises
-5. Simple promise
-6. Reject the promises
-7. Handle multiple promises
-8. Load balancer
-9. Throw an error
-10. Throw error / try catch
+1. [Keep every promise you make and only make promises you can keep](#task-0)
+2. [Don't make a promise...if you know you can't keep it](#task-1)
+3. [Catch me if you can!](#task-2)
+4. [Handle multiple successful promises](#task-3)
+5. [Simple promise](#task-4)
+6. [Reject the promises](#task-5)
+7. [Handle multiple promises](#task-6)
+8. [Load balancer](#task-7)
+9. [Throw an error](#task-8)
+10. [Throw error / try catch](#task-9)
 
 ## Tasks
 
@@ -63,4 +63,3 @@ Write a function named `divideFunction` that will accept two arguments: `numerat
 Write a function named `guardrail` that will accept one argument `mathFunction` (Function). This function should create and return an array named `queue`. When the `mathFunction` function is executed, the value returned by the function should be appended to the queue. If this function throws an error, the error message should be appended to the queue. In every case, the message `Guardrail was processed` should be added to the queue.
 - **Example**: `[ 1000, 'Guardrail was processed' ]`
 - **File**: [9-try.js](9-try.js)
-
