@@ -8,7 +8,7 @@
 5. [Simple promise](#task-4)
 6. [Reject the promises](#task-5)
 7. [Handle multiple promises](#task-6)
-8. [Load balancer](8-try.js)
+8. [Load balancer](#task-7)
 9. [Throw an error](#task-8)
 10. [Throw error / try catch](#task-9)
 
