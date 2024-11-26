@@ -1,7 +1,7 @@
 # ES6 Promises
 
 ## Table of Contents
-1. Keep every promise you make and only make promises you can keep
+1. [Keep every promise you make and only make promises you can keep](#0-promise.js)
 2. Don't make a promise...if you know you can't keep it
 3. Catch me if you can!
 4. Handle multiple successful promises
