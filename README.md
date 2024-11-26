@@ -25,7 +25,7 @@ Understanding and implementing Promises in ES6 for asynchronous programming, inc
 Feel free to explore each directory for more detailed information on the individual projects and exercises completed.
 
 ## Contact
-For any inquiries or issues, feel free to reach out to us:
+For any inquiries or issues, feel free to reach out to me:
 
 - Email: **a.flavio4366@gmail.com**
 - Phone: **+355 67 63 11 918**
