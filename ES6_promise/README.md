@@ -1,16 +1,16 @@
 # ES6 Promises
 
 ## Table of Contents
-1. [Keep every promise you make and only make promises you can keep](#Keep-every-promise-you-make-and-only-make-promises-you-can-keep)
-2. [Don't make a promise...if you know you can't keep it](#Don't-make-a-promise...if-you-know-you-can't-keep-it)
-3. [Catch me if you can!](#Catch-me-if-you-can!)
-4. [Handle multiple successful promises](#Handle-multiple-successful-promises)
-5. [Simple promise](#Simple-promise)
-6. [Reject the promises](#Reject-the-promises)
-7. [Handle multiple promises](Handle-multiple promises)
-8. [Load balancer](#Load-balancer)
-9. [Throw an error](#Throw-an-error)
-10. [Throw error / try catch](#Throw-error-/-try-catch)
+1. Keep every promise you make and only make promises you can keep
+2. Don't make a promise...if you know you can't keep it
+3. Catch me if you can!
+4. Handle multiple successful promises
+5. Simple promise
+6. Reject the promises
+7. Handle multiple promises
+8. Load balancer
+9. Throw an error
+10. Throw error / try catch
 
 ## Tasks
 
