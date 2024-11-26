@@ -1,4 +1,4 @@
-# ES6 Promises Tasks
+# ES6 Promises
 
 ## Table of Contents
 1. [Keep every promise you make and only make promises you can keep](#task-0)
