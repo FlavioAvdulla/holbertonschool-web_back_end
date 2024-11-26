@@ -4,19 +4,19 @@ This repository contains several JavaScript tasks focused on ES6 features. Each 
 
 ## Table of Contents
 
-1. [Const or let?](#const-or-let)
-2. [Block Scope](#block-scope)
-3. [Arrow Functions](#arrow-functions)
-4. [Parameter Defaults](#parameter-defaults)
-5. [Rest Parameter Syntax for Functions](#rest-parameter-syntax-for-functions)
-6. [The Wonders of Spread Syntax](#the-wonders-of-spread-syntax)
-7. [Take Advantage of Template Literals](#take-advantage-of-template-literals)
-8. [Object Property Value Shorthand Syntax](#object-property-value-shorthand-syntax)
-9. [No Need to Create Empty Objects Before Adding Properties](#no-need-to-create-empty-objects-before-adding-properties)
-10. [ES6 Method Properties](#es6-method-properties)
-11. [For...of Loops](#forof-loops)
-12. [Iterator](#iterator)
-13. [Let's Create a Report Object](#lets-create-a-report-object)
+1. Const or let?
+2. Block Scope
+3. Arrow Functions
+4. Parameter Defaults
+5. Rest Parameter Syntax for Functions
+6. The Wonders of Spread Syntax
+7. Take Advantage of Template Literals
+8. Object Property Value Shorthand Syntax
+9. No Need to Create Empty Objects Before Adding Properties
+10. ES6 Method Properties
+11. For...of Loops
+12. Iterator
+13. Let's Create a Report Object
 
 ## Const or let?
 
