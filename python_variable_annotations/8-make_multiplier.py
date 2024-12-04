@@ -23,6 +23,8 @@ def make_multiplier(multiplier: float) -> Callable[[float], float]:
         takes a float as input and 
         returns the product of the input and the multiplier.
     """
+
+    
     def multiplier_function(value: float) -> float:
         """
         Multiplies the given value by the preset multiplier.
