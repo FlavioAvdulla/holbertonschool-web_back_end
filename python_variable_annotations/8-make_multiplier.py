@@ -3,7 +3,7 @@
 Module for creating multiplier functions.
 
 This module provides a function `make_multiplier`
-that returns another 
+that returns another
 function which multiplies a given float by the
 specified multiplier.
 """
@@ -20,11 +20,11 @@ def make_multiplier(multiplier: float) -> Callable[[float], float]:
 
     Returns:
         Callable[[float], float]: A function that
-        takes a float as input and 
+        takes a float as input and
         returns the product of the input and the multiplier.
     """
 
-    
+
     def multiplier_function(value: float) -> float:
         """
         Multiplies the given value by the preset multiplier.
