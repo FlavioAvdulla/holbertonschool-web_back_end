@@ -2,7 +2,8 @@
 """
 Module: 0-add
 
-This module provides a function `add` to perform addition of two floating-point numbers.
+This module provides a function `add` to
+perform addition of two floating-point numbers.
 """
 
 
