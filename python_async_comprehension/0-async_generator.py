@@ -1,26 +1,14 @@
 #!/usr/bin/env python3
+""" Coroutine with async """
 
-"""
-This module demonstrates an asynchronous generator.
-The async_generator coroutine yields random numbers
-between 0 and 10
-with a delay of 1 second between each yield.
-"""
+from typing import Generator
 import asyncio
 import random
-from typing import AsyncGenerator
 
 
-async def async_generator() -> AsyncGenerator[float, None]:
-    """
-    This asynchronous generator
-    coroutine yields random floating-point
-    numbers between 0 and 10.
-    It waits for 1 second between yields.
+async def async_generator() -> Generator[float, None, None]:
+    """ Loops 10 times asyncronously, yields random num """
 
-    Yields:
-        float: A random number between 0 and 10.
-    """
-    for _ in range(10):
+    for i in range(10):
+        yield random.random()
         await asyncio.sleep(1)
-        yield random.uniform(0, 10)
