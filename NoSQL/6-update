@@ -1,5 +1,5 @@
-// adds a new attribute to a document in the collection
+// adds new attribute to doc with all specified field
 db.school.update(
-    {name: "Holberton School},
-    {$set: {address: "972 Mission street}}
+	{name: "Holberton school" },
+	{$set: {address: "972 Mission street" }}
 )
