@@ -3,8 +3,8 @@
 
 
 def list_all(mongo_collection):
-    """ Method that will lists all docs"""
+    """ Method that will lists all docs """
     if mongo_collection:
         return mongo_collection.find()
     else:
-        retrun []
+        return []
