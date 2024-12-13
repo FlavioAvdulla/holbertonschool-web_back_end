@@ -1,4 +1,4 @@
-#!/usr/bin/env python3#!/usr/bin/env python3
+#!/usr/bin/env python3
 # 10 Change school topics
 # a Python function that changes all topics of a school
 # document based on the name:
@@ -9,11 +9,11 @@ name (string) will be the school name to update
 topics (list of strings) will be the list of topics approached in the school
 '''
 
-from def update_topics(mongo_collection, name, topics):
+from pymongo import MongoClient
 
 
 def update_topics(mongo_collection, name, topics):
-    """Changes all topics in the school document"""
+    '''changes all topics in the school document'''
     if mongo_collection is None:
         return []
 
